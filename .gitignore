@@ -4,7 +4,4 @@ __pycache__/
 .DS_Store
 .DS_Store
 
-
-find_path.py
-unit_test.py
 *.ipynb
